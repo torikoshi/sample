@@ -1,3 +1,0 @@
-[submodule "child"]
-	path = child
-	url = https://github.com/torikoshi/child.git
