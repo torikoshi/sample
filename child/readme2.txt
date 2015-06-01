@@ -16,7 +16,5 @@ child
 
 hoge
 aaaaa
-
+aaa
 aa
-
-pa
