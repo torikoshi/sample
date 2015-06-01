@@ -11,5 +11,3 @@ aa
 aa
 
 bb
-
-cc
