@@ -1,0 +1,3 @@
+[submodule "child"]
+	path = child
+	url = F:\\workspace\\github\\child
